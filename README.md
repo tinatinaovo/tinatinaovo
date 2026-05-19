@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tina</h1>
 
-<h3 align="center">Data Analytics | AI | Digital Innovation Student</h3>
+<h3 align="center">Business Analytics | Digital Transformation | Database Management</h3>
 <h4 align="center">Master of Digital Innovation | Dalhousie University</h4>
 
 <p align="left"> 
@@ -11,14 +11,14 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Master of Digital Innovation student at Dalhousie University  
-- 📊 Focused on Business Intelligence, Data Analytics, and Machine Learning
-- 🧠 Experience in Python, SQL, Tableau, Power BI, and ERP systems (SAP)  
-- 🌍 Interested in using data to solve real-world business and social problems  
+- 🎓 Master of Digital Innovation student at **Dalhousie University**  
+- 📊 Focused on **Business Intelligence**, **Data Analytics**, and **Machine Learning**
+- 🧠 Experience in **Python**, **SQL**, **Tableau**, **Power BI**, and **ERP systems (SAP)**
+- 🌍 Passionate about using data to solve **real-world business and social problems**
 
 ---
 
-### 🧠 Languages & Tools
+### 🚀 Languages & Tools
 
 <p align="left">
 
@@ -53,13 +53,23 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinayutingliang&show_icons=true&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinayutingliang&show_icons=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinayutingliang&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinayutingliang&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinayutingliang" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinayutingliang" alt="GitHub Streak" />
 </p>
+
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([url](https://www.linkedin.com/in/tina-l-8abb89345/))
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:tinayutingliang@gmail.com)
+
+---
+
+*⭐ Feel free to explore my repositories and reach out for collaboration or opportunities!*
