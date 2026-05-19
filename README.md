@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Tina's GitHub Profile</h1>
+<h1 align="center">Welcome to Tina's GitHub Profile ☺️</h1>
 
 <h3 align="center">Business Analytics | Digital Transformation | Database Management</h3>
 
@@ -30,7 +30,7 @@
 - SQL (SQL Server), Python, Excel
 - Workflow Automation (Power Automate)
 
-
+---
 
 ### 📫 Let's Connect
 
@@ -41,6 +41,6 @@
 
 *⭐ Feel free to explore my repositories and reach out for collaboration or opportunities!*
 
-<p align="middle"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tina1111111&label=Profile%20views&color=0e75b6&style=flat" alt="tina1111111" /> 
 </p>
