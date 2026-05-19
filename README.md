@@ -51,7 +51,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)(https://www.linkedin.com/in/tina-l-8abb89345/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tina-l-8abb89345/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:tinayutingliang@gmail.com)
 
 ---
