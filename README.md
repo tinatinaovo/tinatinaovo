@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tina</h1>
+<h1 align="center">Hello ☺️ , I'm Tina</h1>
 
 <h3 align="center">Business Analytics | Digital Transformation | Database Management</h3>
 <h4 align="center">Master of Digital Innovation | Dalhousie University</h4>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tina1111111&label=Profile%20views&color=0e75b6&style=flat" alt="tina1111111" /> 
-</p>
 
 ---
 
@@ -57,3 +53,7 @@
 ---
 
 *⭐ Feel free to explore my repositories and reach out for collaboration or opportunities!*
+
+<p align="middle"> 
+  <img src="https://komarev.com/ghpvc/?username=tina1111111&label=Profile%20views&color=0e75b6&style=flat" alt="tina1111111" /> 
+</p>
