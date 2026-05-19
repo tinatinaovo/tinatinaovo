@@ -48,26 +48,10 @@
 
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinayutingliang&show_icons=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinayutingliang&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinayutingliang" alt="GitHub Streak" />
-</p>
-
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([url](https://www.linkedin.com/in/tina-l-8abb89345/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)(https://www.linkedin.com/in/tina-l-8abb89345/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:tinayutingliang@gmail.com)
 
 ---
