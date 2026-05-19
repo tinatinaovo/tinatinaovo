@@ -1,7 +1,6 @@
-<h1 align="center">Hello ☺️ , I'm Tina</h1>
+<h1 align="center">Welcome to Tina's GitHub Profile</h1>
 
 <h3 align="center">Business Analytics | Digital Transformation | Database Management</h3>
-<h4 align="center">Master of Digital Innovation | Dalhousie University</h4>
 
 ---
 
@@ -14,35 +13,23 @@
 
 ---
 
+### 💼 Professional Experience
+
+#### Business Analytics Developer (Co-op)
+**Halifax Regional Municipality (HRM)** | May 2025 – Dec 2025
+
+- Partnered with **5+ business units** to gather requirements, analyze business processes, and deliver enterprise analytics solutions using **Power BI** and **SSRS**, supporting **30+ end users** across **10+ projects**
+- Designed data models and documentation, optimized SQL queries achieving **97% improvement** in query performance for datasets exceeding **100,000+ rows**
+- Developed **Power Apps** and **Power Automate** workflows to automate application intake and approvals, processing **50+ requests** and adapting solutions based on evolving client requirements
+  
+---
+
 ### 🚀 Languages & Tools
 
-<p align="left">
+- Power BI, SSRS, Tableau, SAP Analytics Cloud
+- SQL (SQL Server), Python, Excel
+- Workflow Automation (Power Automate)
 
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://learn.microsoft.com/en-us/sql/" target="_blank">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-</a>
-
-</p>
 
 
 ### 📫 Let's Connect
