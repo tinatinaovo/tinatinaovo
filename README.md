@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Tina's GitHub Profile ☺️</h1>
+<h1 align="center">Welcome to Tina's Profile ☺️</h1>
 
 <h3 align="center">Business Analytics | Digital Transformation | Database Management</h3>
 
