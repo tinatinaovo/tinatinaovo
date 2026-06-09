@@ -17,10 +17,6 @@
 
 #### Business Analytics Developer (Co-op)
 **Halifax Regional Municipality (HRM)** | May 2025 – Dec 2025
-
-- Partnered with **5+ business units** to gather requirements, analyze business processes, and deliver enterprise analytics solutions using **Power BI** and **SSRS**, supporting **30+ end users** across **10+ projects**
-- Designed data models and documentation, optimized SQL queries achieving **97% improvement** in query performance for datasets exceeding **100,000+ rows**
-- Developed **Power Apps** and **Power Automate** workflows to automate application intake and approvals, processing **50+ requests** and adapting solutions based on evolving client requirements
   
 ---
 
